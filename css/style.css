@@ -45,7 +45,6 @@ main {
   left: -20%;
   top: -5%;
 }
-
 .container__btn-cor {
   display: flex;
   z-index: 2;
@@ -57,7 +56,6 @@ main {
   padding: 5px 10px;
   border-radius: 100px;
 }
-
 .titulo-cor {
   font-size: 2em;
   color: white;
